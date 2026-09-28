@@ -12,10 +12,10 @@
 
 ### About Me
 
-* Pursuing B.A. in **Data Science**, Minor in **Computer Science** at UC Berkeley
-* Undergraduate Research Assistant at **UCSF TECH Lab**
-* Working on **agentic AI, LLM evaluation, and behavioral-change applications**
-* Interested in **Software Engineering, AI/ML, backend systems, and data infrastructure**
+* Pursuing B.A. in Data Science, Minor in Computer Science at UC Berkeley
+* Undergraduate Research Assistant at UCSF TECH Lab
+* Working on agentic AI, LLM evaluation, and behavioral-change applications
+* Interested in Software Engineering, AI/ML, backend systems, and data infrastructure
 
 ---
 
